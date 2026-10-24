@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Book open silhouette -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,42 c-4,-6 -12,-9 -20,-9 c-5,0 -10,1.5 -14,4 v38 c4,-2.5 9,-4 14,-4 c8,0 16,3 20,9 c4,-6 12,-9 20,-9 c5,0 10,1.5 14,4 v-38 c-4,-2.5 -9,-4 -14,-4 c-8,0 -16,3 -20,9 z" />
+    <!-- Saccadic Bionic focus highlight on the left page -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M24,47 h10 v3 h-10 z M24,53 h8 v3 h-8 z M24,59 h12 v3 h-12 z M24,65 h7 v3 h-7 z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M35,47 h11 v3 h-11 z M33,53 h13 v3 h-13 z M37,59 h9 v3 h-9 z M32,65 h14 v3 h-14 z" />
+    <!-- Right page reading lines -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M58,47 h10 v3 h-10 z M58,53 h8 v3 h-8 z M58,59 h12 v3 h-12 z M58,65 h7 v3 h-7 z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M69,47 h11 v3 h-11 z M67,53 h13 v3 h-13 z M71,59 h9 v3 h-9 z M66,65 h14 v3 h-14 z" />
+</vector>

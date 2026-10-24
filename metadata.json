@@ -1,0 +1,6 @@
+{
+  "name": "Leitor Guiado",
+  "description": "Aplicativo de leitura imersiva com suporte a Leitura Guiada (Bionic Reading), karaokê de texto, síntese de voz e temas de alta concentração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
